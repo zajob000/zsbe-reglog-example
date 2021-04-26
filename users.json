@@ -1,22 +1,31 @@
 [
-	{
-		"username": "jkjjkjkj222",
-		"password": "f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b"
-	},
-	{
-		"username": "hhhjhj",
-		"password": "f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b"
-	},
-	{
-		"username": "jkjkjkdfg",
-		"password": "d94cca8dd4e514e6d567dfc69bc87807b9648d6a33104e71322bc4c834b1e5cb"
-	},
-	{
-		"username": "admin",
-		"password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
-	},
-	{
-		"username": "root",
-		"password": "4813494d137e1631bba301d5acab6e7bb7aa74ce1185d456565ef51d737677b2"
-	}
+    {
+        "username": "jkjjkjkj222",
+        "password": "f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b"
+    },
+    {
+        "username": "hhhjhj",
+        "password": "f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b"
+    },
+    {
+        "username": "jkjkjkdfg",
+        "password": "d94cca8dd4e514e6d567dfc69bc87807b9648d6a33104e71322bc4c834b1e5cb"
+    },
+    {
+        "username": "admin",
+        "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    },
+    {
+        "username": "root",
+        "password": "4813494d137e1631bba301d5acab6e7bb7aa74ce1185d456565ef51d737677b2"
+    },
+    {
+        "username": "tomek",
+        "admin": true,
+        "password": "a6bbc4b66450dd5910cbdf7f914792e63ba52418817765095952bfea7b751d70"
+    },
+    {
+        "login": "jurek",
+        "password": "c18cd00a6666d0c4081bd300da2e2139b5947fc6a54d468c47dcaaa29b96002f"
+    }
 ]
